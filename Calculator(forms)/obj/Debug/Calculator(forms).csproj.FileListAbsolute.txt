@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\bin\Debug\Calculator(forms).exe.config
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\bin\Debug\Calculator(forms).exe
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\bin\Debug\Calculator(forms).pdb
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator(forms).csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator_forms_.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator(forms).csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator(forms).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator(forms).exe
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator(forms).pdb
+C:\Users\Lenovo\OneDrive - Bow Valley College\Desktop\classes\Sem 3\SODV2101\Calculator-cSharp-Forms\Calculator(forms)\obj\Debug\Calculator_forms_.Calculator.resources
